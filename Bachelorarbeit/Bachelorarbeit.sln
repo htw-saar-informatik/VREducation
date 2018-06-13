@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bachelorarbeit", "Bachelorarbeit.csproj", "{12EAF64D-083C-2E89-8F5C-25D7AA13BAD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bachelorarbeit.Plugins", "Bachelorarbeit.Plugins.csproj", "{EA170673-9842-2995-E887-B9B812A2B31D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bachelorarbeit.Editor", "Bachelorarbeit.Editor.csproj", "{C101B8F0-023E-7B77-D374-F8E6C8EDF7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12EAF64D-083C-2E89-8F5C-25D7AA13BAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12EAF64D-083C-2E89-8F5C-25D7AA13BAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12EAF64D-083C-2E89-8F5C-25D7AA13BAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12EAF64D-083C-2E89-8F5C-25D7AA13BAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA170673-9842-2995-E887-B9B812A2B31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA170673-9842-2995-E887-B9B812A2B31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA170673-9842-2995-E887-B9B812A2B31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA170673-9842-2995-E887-B9B812A2B31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C101B8F0-023E-7B77-D374-F8E6C8EDF7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C101B8F0-023E-7B77-D374-F8E6C8EDF7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C101B8F0-023E-7B77-D374-F8E6C8EDF7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C101B8F0-023E-7B77-D374-F8E6C8EDF7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Bachelorarbeit.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\OVRAssets\OVR\Scripts\Util\OVRGrabbable.cs">
+    <Files>
+      <File FileName="Assets\OVRAssets\OVR\Scripts\Util\OVRGrabbable.cs" Line="148" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
