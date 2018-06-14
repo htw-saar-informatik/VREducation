@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ButtonCollection>
+  <Button>
+    <buttonName>Schatten</buttonName>
+    <sceneName>Physics-ShadowCreation</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Freier Fall</buttonName>
+    <sceneName>Physics-FreeFall</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Atomphysik</buttonName>
+    <sceneName>Physics-FreeFall</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Reflexion</buttonName>
+    <sceneName>Physics-FreeFall</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Magnete</buttonName>
+    <sceneName>Physics-FreeFall</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Kinematic</buttonName>
+    <sceneName>Physics-FreeFall</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Elektrizität</buttonName>
+    <sceneName>Physics-FreeFall</sceneName>
+  </Button>
+    <Button>
+    <buttonName>Thermolehre</buttonName>
+    <sceneName>Physics-FreeFall</sceneName>
+  </Button>
+</ButtonCollection>
+
+
+
+
+

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ButtonCollection>
+  <Button>
+    <buttonName>Lobby</buttonName>
+    <sceneName>Lobby</sceneName>
+  </Button>
+  <Button>
+   <buttonName>Geographie</buttonName>
+   <sceneName>Geography</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Physik</buttonName>
+    <sceneName>Physics</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Chemie</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Biologie</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Mathematik</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Geschichte</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Deutsch</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Englisch</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Latein</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Französisch</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Spanisch</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+  <Button>
+    <buttonName>Medizin</buttonName>
+    <sceneName>Chemistry</sceneName>
+  </Button>
+</ButtonCollection>
+
+
+
+
+

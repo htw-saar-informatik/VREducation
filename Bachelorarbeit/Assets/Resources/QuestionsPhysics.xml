@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QuestionCollection>
+  <Question>
+    <questionText>In einem freien Fall mit Luftwiderstand werden zur gleichen Zeit eine 2kg Kugel und eine 20kg Kugel der gleichen Form fallen gelassen. Welche kommt zuerst auf dem Boden an </questionText>
+    <answer1>Die 2kg Kugel</answer1>
+    <answer2>Die 20kg Kugel</answer2>
+    <answer3>Beide gleichzeitig</answer3>
+    <answer4>Keine von beiden</answer4>
+    <rightAnswer>Beide gleichzeitig</rightAnswer>
+      </Question>
+  <Question>
+    <questionText>Wie heißt der Bereich der entsteht, in den kein Licht eintritt ,wenn 2 Lichtquellen auf ein Hindernis treffen?</questionText>
+    <answer1>Kernschatten</answer1>
+    <answer2>Halbschatten</answer2>
+    <answer3>Randschatten</answer3>
+    <answer4>Absolutschatten</answer4>
+    <rightAnswer>Kernschatten</rightAnswer>
+  </Question>
+  <Question>
+    <questionText>Wie nennt man den Bereich, der die Grenze zwischen Licht und Schatten bildet?</questionText>
+    <answer1>Randschatten</answer1>
+    <answer2>Halbschatten</answer2>
+    <answer3>Strahlenschatten</answer3>
+    <answer4>Randstrahlen</answer4>
+    <rightAnswer>Randstrahlen</rightAnswer>
+  </Question>
+  <Question>
+    <questionText>Welche der folgenden Größen spielt beim freiem Fall mit Luftwiderstand keine Rolle?</questionText>
+    <answer1>Form</answer1>
+    <answer2>Gewicht</answer2>
+    <answer3>Erdanziehungskraft</answer3>
+    <answer4>Zeit</answer4>
+    <rightAnswer>Gewicht</rightAnswer>
+  </Question>
+  <Question>
+    <questionText>In einem Fall im Vakuum werden zur gleichen Zeit eine 2kg Kugel und eine 20kg Kugel unterschiedlicher Form fallen gelassen. Welche kommt zuerst auf dem Boden an?</questionText>
+    <answer1>Die 2kg Kugel</answer1>
+    <answer2>Die 20kg Kugel</answer2>
+    <answer3>Beide gleichzeitig</answer3>
+    <answer4>Keine von beiden</answer4>
+    <rightAnswer>Beide gleichzeitig</rightAnswer>
+  </Question>
+  <Question>
+    <questionText>Wie nennt man den Abstand zwischen einer Lichtquelle und des durch sie erzeugten Schattens?</questionText>
+    <answer1>Schattenentfernung</answer1>
+    <answer2>Bildweite</answer2>
+    <answer3>Gegenstandsweite</answer3>
+    <answer4>Brennweite</answer4>
+    <rightAnswer>Bildweite</rightAnswer>
+  </Question>
+  <Question>
+    <questionText>Wie nennt man bei der Entstehung von Schatten den Abstand einer Lichtquelle zu einem Hindernis?</questionText>
+    <answer1>Zielweite</answer1>
+    <answer2>Bildweite</answer2>
+    <answer3>Gegenstandsweite</answer3>
+    <answer4>Brennweite</answer4>
+    <rightAnswer>Gegenstandsweite</rightAnswer>
+  </Question>
+  <Question>
+    <questionText>Wie nennt man die Größe eines Schattenbildes?</questionText>
+    <answer1>Zielgröße</answer1>
+    <answer2>Bildgröße</answer2>
+    <answer3>Gegenstandsgröße</answer3>
+    <answer4>Entstehungsgröße</answer4>
+    <rightAnswer>Bildgröße</rightAnswer>
+  </Question>
+  <Question>
+    <questionText>Wie nennt man bei der Entstehung von Schatten die Größe eines Hindernisses, auf das das Licht trifft?</questionText>
+    <answer1>Lichtgröße</answer1>
+    <answer2>Hindernisweite</answer2>
+    <answer3>Brenngröße</answer3>
+    <answer4>Gegenstandsgröße</answer4>
+    <rightAnswer>Gegenstandsgröße</rightAnswer>
+  </Question>
+  <Question>
+    <questionText>Wie wird die Geschwindigkeit v eines freien Falls berechnet? Es werden zusätzlich die Abkürzungen g für die Erdbeschleunigung und t für die Fallzeit verwendet</questionText>
+    <answer1>v = t x g</answer1>
+    <answer2>v = g/t </answer2>
+    <answer3>v = g + t</answer3>
+    <answer4>v = t x g²</answer4>
+    <rightAnswer>v = t x g</rightAnswer>
+  </Question>
+</QuestionCollection>
+
+
+
+
+
