@@ -9,7 +9,9 @@ Diese Arbeit ist im Rahmen der Bachelorarbeit von [Kevin Gisa](https://github.co
 A virtual reality learning application for students, developed for Oculus Rift. The application allows students to interactively explore a variety of physics and geography-related topics through simulated experiments in a 3D environment. The application can easily be extended by the integration of new topics and content via an interface. 
 
 This project was created as part of the bachelor thesis of [Kevin Gisa](https://github.com/kgisa) at the University of Applied Sciences in Saarbrücken([htw saar](https://www.htwsaar.de/en)).
+
 {nbsp} +
+
 {nbsp} +
 
 ![Beispielbild](LightAndShadow.png)
