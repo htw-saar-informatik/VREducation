@@ -6,4 +6,6 @@ Eine Virtual Reality-Anwendung zur Lernunterstützung für Schüler, entwickelt 
 
 A virtual reality learning application for students, developed for Oculus Rift. The application allows students to interactively explore a variety of physics and geography-related topics through simulated experiments in a 3D environment. The application can easily be extended by the integration of new topics and content via an interface. 
 
+
 ![Beispielbild](LightAndShadow.png)
+*Beispiel für die Visualisierung eines Licht- und Schattenexperiments / Example showing the visualisation of a light and shadow experiment*
