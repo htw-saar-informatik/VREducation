@@ -1,4 +1,4 @@
-# vr_education
+# VREeducation
 
 Eine Virtual Reality-Anwendung zur Lernunterstützung für Schüler, entwickelt für Oculus Rift. Durch die Anwendung können Schüler verschiedene schulische Themen aus den Bereichen Physik und Geographie anhand von simulierten Experimenten in einer 3D-Umgebung interaktiv untersuchen. Über eine Schnittstelle können auf einfache Art und Weise neue Themen und Inhalte in die Anwendung integriert werden. 
 
